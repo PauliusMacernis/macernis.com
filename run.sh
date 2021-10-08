@@ -21,7 +21,7 @@ docker build --tag fpm:latest --pull -f ./docker/fpm/Dockerfile . \
 docker rm app
 
 docker build --tag app:latest --pull -f ./docker/nginx/Dockerfile . \
- && docker run --net macernis.com --name app -p 8087:80 -v "${APP_FILES_DIR}:/srv/www/macernis.com:rw" -v "${APP_FILES_DIR}/docker/nginx/nginx.conf:/etc/nginx/nginx.conf:ro" --restart on-failure:10 --workdir "/srv/www/macernis.com" --env "APP_NAME=macernis.com" app:latest
+ && docker run --net macernis.com --name app -p 8087:80 -v "${APP_FILES_DIR}:/srv/www/macernis.com:rw" -v "${APP_FILES_DIR}/docker/nginx/nginx.conf:/etc/nginx/nginx.conf:ro" --restart on-failure:10 --workdir "/srv/www/macernis.com" --env "APP_NAME=macernis.com" -d app:latest
 # -v "${APP_FILES_DIR}/logs:/srv/www/macernis.com/logs:rw"
 
 
