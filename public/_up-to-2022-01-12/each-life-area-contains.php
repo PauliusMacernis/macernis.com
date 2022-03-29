@@ -215,6 +215,8 @@
         <li title="Introduce to people who do what you do, e.g. tax office person for the launch., - inspired by Rich Dad, Poor Dad by Robert T. Kiyosaki">Meetings with people who knows more</li>
         <li title="A plan toobtain assets by using specific steps, e.g. Fibonacci values as the amounts each asset should generate monthly or so, e.g. 1, 2, 3, 5, 8, 13, ..., - inspired by Rich Dad, Poor Dad by Robert T. Kiyosaki + my own life experience">Meetings with people who knows more</li>
         <li>Metrics: KPI</li>
+        <li title="E.g. a dialect, a foreign language, a sign language, etc.">A natural-artificial language to learn</li>
+        <li title="E.g. a programming language, Morse language, Brilee, etc.">An artificial language to learn</li>
         <li title="BRAVING can be a useful way to inventory strengths and areas for improvement in working relationships with subordinates. So, what are these behaviors?
 
 The B stands for boundaries. This element of trust involves respecting others’ boundaries. If either party is unsure of the other’s boundaries, they ask whether or not something is okay, and the other person feels comfortable enough to say no if it isn’t.
@@ -256,11 +258,50 @@ Check what you do and look for the problem. Adress it.(and thats the probl becau
                 <li>
                     Books to read
                     <ul>
+                        <li>See: Blinkist favourite books</li>
                         <li>E.g. The Ethics of Authenticity by Charles Taylor</li>
+                    </ul>
+                </li>
+                <li>
+                    Things to buy
+                    <ul>
+                        <li>https://www.kainos.lt/web-kameros/internetine-kamera-logitech-c922-pro-stream-webcam-emea-juoda-v244271</li>
+                        <li>https://www.logitech.com/en-roeu/products/webcams/brio-4k-hdr-webcam.960-001106.html</li>
+                        <li>Roland RD-700GX Digital Stage Piano</li>
                     </ul>
                 </li>
             </ul>
         </li>
+        <li title="For example, people who practice consistently for ten years, never giving up despite constant failures along the way, often end up being better at a given skill than those who at first seemed naturally talented. , -- inspired by 13 Things Mentally Strong People Don't Do by Amy Morin">The longest-term-dream-top-super-skill to develop</li>
+        <li title=" E.g. Give away your time to solve the most important issue, not to take away the money for solving the biggest issue. -- inspired by 13 Things Mentally Strong People Don't Do by Amy Morin">What to give away instead of take away?</li>
+        <li title="E.g. the best and loudest way to hear the self talking on life-wide issues is to temporarily or completely switch the most attached habit off and then watch the mind. Analyse what's happening in the mind. For example, don't use social media for 6 months. -- insipired by 13 Things Mentally Strong People Don't Do by Amy Morin">Habits to drop for longer tem or forever</li>
+        <li title="Inpired by Less Doing, More Living by Ari Meisel">Tools/methods/other ways to: Optimize, Automate and Outsource</li>
+        <li title="E.g. https://www.taskrabbit.com/ , upwork, freelancer, uber, bolt, etc.">Income posibilities</li>
+        <li title="For example, posts in stackoverflow, upwork, etc.">Volunteering opportunities to spread competence</li>
+        <li>Evening promises to myself in the morning</li>
+        <li>Profesinės sąjungos narystė ar kitoks atstovavimo grupėje variantas/i</li>
+        <li title="For example, OpenCV, onion, crypto, etc.">Thoughts on the most trending/profitable options for the future</li>
+        <li title="">Law regulating the matter</li>
+        <li title="For example, PhpStorm - what every menu item means and does, swedbank.lt - what every menu item does in there, etc.">Tool menus</li>
+        <li title="E.g. each week one friend, one new person, and alike">Rotation/randomness of people to meet with</li>
+        <li>
+            <ul>Quotes
+                <li title="https://www.youtube.com/watch?v=1fPWr0d5zBE">"Work is just work, your technical abilities and your expertise don't matter as much as you think, what matters more is your grit and got stuff done, just be a doer and make things you are proud of and the rest will come" - Joma 2021</li>
+                <li></li>
+            </ul>
+        </li>
+        <li>
+            <ul>Communities or tools for striving easier
+                <li>https://leetcode.com/</li>
+                <li></li>
+            </ul>
+        </li>
+        <li>People and other entities most possibly relating to the same situation, e.g. Community health: A person from a small town of 10K people in the city of 600K people.</li>
+        <li>Hypothetical questions to think about and answer - educate the self</li>
+        <li>Experiments and other type of research showing the "do this" or "don't do this"</li>
+        <li>Timeline of Profession, e.g. <a href="http://timeline.knightlab.com/">http://timeline.knightlab.com/</a></li>
+        <li>Daily report of "important discoveries"</a></li>
+        <li title="For example, may be gravatar.com for 'Reputation & Fame'">An account on the best platform of the matter topic.</li>
     </ul>
 </div>
 
