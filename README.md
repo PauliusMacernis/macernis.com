@@ -1,5 +1,4 @@
-# Run
+# Install & Run
 
-`./run.sh "$(pwd)"`
-
-Open http://localhost:8087
+- `npm install`  
+- 
